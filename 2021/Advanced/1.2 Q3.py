@@ -1,3 +1,6 @@
+# Copy the code beneath the 'Write the rest of the program here' text.
+# Put the print command inside the definition to avoid an error.
+
 def to_kmh(knots):
   # Calculate the speed in km/h
   print('I have the power of not using def on my side')
