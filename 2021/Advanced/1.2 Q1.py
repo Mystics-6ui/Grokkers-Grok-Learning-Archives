@@ -1,3 +1,6 @@
+# Copy the code beneath the 'Write the rest of the program here' text.
+# Put the print command inside the definition to avoid an error.
+
 def is_notable(name):
   # Write your function here.
   print('why')
